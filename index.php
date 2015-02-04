@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
@@ -14,3 +15,6 @@
 <p class="p1">&lt;?php include("index.html") ?&gt;</p>
 </body>
 </html>
+=======
+<?php include("index.html") ?>
+>>>>>>> FETCH_HEAD
